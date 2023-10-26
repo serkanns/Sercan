@@ -23,5 +23,22 @@
     },
     "componentId": "multi-line-text",
     "modelId": "contentrain"
+  },
+  {
+    "name": "dasdasd",
+    "description": "dasd",
+    "fieldId": "dasdasd",
+    "options": {
+      "default-value": {
+        "value": true,
+        "form": {
+          "checkbox": {
+            "value": true
+          }
+        }
+      }
+    },
+    "componentId": "checkbox",
+    "modelId": "contentrain"
   }
 ]

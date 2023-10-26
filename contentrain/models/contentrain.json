@@ -1,0 +1,10 @@
+[
+  {
+    "name": "test",
+    "fieldId": "test",
+    "validations": {},
+    "options": {},
+    "componentId": "single-line-text",
+    "modelId": "contentrain"
+  }
+]

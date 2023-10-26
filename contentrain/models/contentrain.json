@@ -6,5 +6,22 @@
     "options": {},
     "componentId": "single-line-text",
     "modelId": "contentrain"
+  },
+  {
+    "name": "dsasdas",
+    "fieldId": "dsasdas",
+    "validations": {},
+    "options": {
+      "default-value": {
+        "value": true,
+        "form": {
+          "multi-line-text": {
+            "value": "dafsdasdasd"
+          }
+        }
+      }
+    },
+    "componentId": "multi-line-text",
+    "modelId": "contentrain"
   }
 ]

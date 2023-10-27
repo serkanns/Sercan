@@ -14,5 +14,13 @@
     "options": {},
     "componentId": "integer",
     "modelId": "dsadasdasdc-s-safasf"
+  },
+  {
+    "name": "fdsfdsfdsf",
+    "fieldId": "fdsfdsfdsf",
+    "validations": {},
+    "options": {},
+    "componentId": "slug",
+    "modelId": "dsadasdasdc-s-safasf"
   }
 ]

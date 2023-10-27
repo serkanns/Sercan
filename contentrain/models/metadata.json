@@ -10,5 +10,13 @@
     "modelId": "dsadasdasdc-s-safasf",
     "type": "MDX",
     "createdBy": "user"
+  },
+  {
+    "name": "Contentrain",
+    "modelId": "contentrain-1",
+    "type": "JSON",
+    "createdBy": "user",
+    "projectId": "6tlx8g9jv6",
+    "id": "contentrain"
   }
 ]

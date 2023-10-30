@@ -40,5 +40,13 @@
     },
     "componentId": "checkbox",
     "modelId": "contentrain"
+  },
+  {
+    "name": "adsasDas",
+    "fieldId": "adsasdas",
+    "validations": {},
+    "options": {},
+    "componentId": "integer",
+    "modelId": "contentrain"
   }
 ]
